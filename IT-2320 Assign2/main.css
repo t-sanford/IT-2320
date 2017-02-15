@@ -1,0 +1,242 @@
+html
+
+{
+	
+	background-image: url("background.jpg");
+
+}
+
+
+
+body
+
+{
+	
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 100%;
+	
+	width: 900px;
+	
+	margin: 0 auto;
+	border: 3px solid black;
+
+	background-color: white;
+
+}
+
+
+
+header
+
+{
+
+	padding: 1.5em 0 2em 0;
+
+	border-bottom: 3px solid blue;
+
+	background-image: -moz-linear-gradient(
+30deg, blue 0%, red 30%, white 50%, blue 80%, blue 100%);
+
+	background-image: -webkit-linear-gradient(30deg, blue 0%, yellow 30%, white 50%, yellow 80%, blue 100%);
+
+	background-image: -o-linear-gradient(
+30deg, blue 0%, yellow 30%, white 50%, yellow 80%, blue 100%);
+
+	background-image: linear-gradient(30deg, blue 0%, yellow 30%, white 50%, yellow 80%, blue 100%);
+
+}
+
+
+
+header h2
+
+{
+	font-size: 175%;
+
+	color: blue;
+
+}
+
+
+
+header img
+
+{
+
+	float: left;
+
+	padding: 0 30px;
+
+}
+
+
+
+.intro
+
+{
+
+	padding-left: 10px;
+
+}
+
+
+
+.intro h2
+
+{
+
+	color: blue;
+
+}
+
+
+
+.plane-photo-section
+
+{
+
+	float: right;
+
+	padding-right: 50px;
+
+}
+
+
+
+.interest h2
+
+{
+
+	font-weight: bold;
+
+	color: blue;
+
+	padding-left: 200px;
+
+}
+
+
+
+.page .interest .av-p
+
+{
+
+	width: 500px;
+
+	float: left;
+
+	padding-left: 25px;
+
+	padding-top: 40px;
+
+	padding-bottom: 80px;
+
+}
+
+
+
+.plane-paragraph
+
+{
+
+	border-bottom: 3px solid blue;
+
+}
+
+
+
+.hobbies h3
+
+{
+
+	color: blue;
+
+	font-style: italic;
+
+	padding-top: 40px;
+
+	padding-left: 10px;
+
+}
+
+
+
+.hobbies .li
+
+{
+
+	width: 250px;
+
+}
+
+
+
+.hobbies .li-big
+
+{
+
+	font-size: 150%;
+
+}
+
+
+
+.hobbies .li-img
+
+{
+
+	padding-bottom: 5px;
+
+	padding-top: 5px;
+
+}
+
+
+
+.hobbies .li-img-gone
+
+{
+
+	display: none;
+
+}
+
+
+
+.interest .js-button
+
+{
+
+	padding-left: 130px;
+
+	padding-bottom: 20px;
+
+	padding-top: 20px;
+
+}
+
+
+
+footer
+
+{
+
+	background-color: gray;
+
+	clear: both;
+
+}
+
+
+
+footer p
+
+{
+
+	text-align: center;
+
+	color: blue;
+
+	padding: 1em 0;
+}
