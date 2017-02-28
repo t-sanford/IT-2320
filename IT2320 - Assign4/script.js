@@ -25,7 +25,7 @@ Main.Jaromir.SetAssists(1142);
 
 Main.Player.prototype.GetPlayerInfo = function()
 {
-	return this.Name + " plays for the " + this.Team + ", has scored " + this.Goals + " goals, and has tallied " + this.Assists + " assists.";
+	return this.Name + " plays for the " + this.Team + ", has been in the NHL for " + this.YearsInLeague + " years, has scored " + this.Goals + " goals, and has tallied " + this.Assists + " assists.";
 }
 
 Main.Player.prototype.GetName = function()
