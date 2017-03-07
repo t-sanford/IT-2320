@@ -1,0 +1,19 @@
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 100%;
+	
+	width: 600px;
+
+	background-color: white;
+
+	padding-top: 50px;
+}
+
+#button
+{
+	float: center;
+	text-align: center;
+	border: 2px solid black;
+}
