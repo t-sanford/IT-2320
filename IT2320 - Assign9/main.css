@@ -1,0 +1,25 @@
+.one {
+	font-family: 'Press Start 2P', cursive;
+	-webkit-transform: rotateY(130deg);
+	transform: rotateY(130deg);
+}
+
+.two {
+	font-family: 'Press Start 2P', cursive;
+	-webkit-transform: rotateY(130deg);
+	transform: rotateY(130deg);
+	-webkit-transform: rotateX(150deg);
+	transform: rotateX(150deg);
+}
+
+.three {
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 2px solid black;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	-ms-transform: rotate(20deg);
+	-webkit-transform: rotate(20deg);
+	transform: rotate(20deg);
+}
